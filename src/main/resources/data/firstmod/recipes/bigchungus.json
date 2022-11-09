@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iron_ingot",
+  "ingredients": [
+    {
+      "item": "firstmod:chungus_block"
+    }
+  ],
+  "result": {
+    "item": "firstmod:bigchungus",
+    "count": 8
+  }
+}
